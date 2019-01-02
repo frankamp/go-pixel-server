@@ -25,4 +25,18 @@ Other command elements like color `{"c":{"n":"color","v":"1,0,0"}}` are:
 
 Example scenes I pushed from client programs are like:
 
- - `raw.githubusercontent.com/frankamp/go-pixel-server/master/final.gif?sanitize=true&raw=true`
+Advent Of Code 2018 Day 17 https://adventofcode.com/2018/day/17
+
+![reservoirs](https://github.com/frankamp/go-pixel-server/raw/master/final.gif "Advent Of Code 2018 Day 17 https://adventofcode.com/2018/day/17")
+
+Advent Of Code 2018 Day 18 https://adventofcode.com/2018/day/18
+
+![trees](https://github.com/frankamp/go-pixel-server/raw/master/pingpong18.gif "Advent Of Code 2018 Day 18 https://adventofcode.com/2018/day/18")
+
+Advent Of Code 2018 Day 20 https://adventofcode.com/2018/day/20
+
+![map](https://github.com/frankamp/go-pixel-server/raw/master/hilbert.gif "Advent Of Code 2018 Day 20 https://adventofcode.com/2018/day/20")
+
+Advent Of Code 2018 Day 22 https://adventofcode.com/2018/day/22 - Visual example of zooming while capturing this
+
+![map](https://github.com/frankamp/go-pixel-server/raw/master/searchpattern.gif "Advent Of Code 2018 Day 22 https://adventofcode.com/2018/day/22")
