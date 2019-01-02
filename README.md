@@ -3,6 +3,8 @@ Pixel Display Server
 
 This program launches a window and a localhost daemon that listens on 8080 for a json packet.
 
+The server requires [faiface/pixel](https://github.com/faiface/pixel), so go get it `go get github.com/faiface/pixel` The client requires nothing (it's just a json prep helper, you can talk to the server from anything that speaks http).
+
 If you supply a scene packet like
 
     {
